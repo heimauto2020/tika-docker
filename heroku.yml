@@ -1,0 +1,5 @@
+build:
+  docker:
+    tika: full/Dockerfile
+run:
+  tika: /ner/run_tika_server.sh
